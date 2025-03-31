@@ -2,7 +2,7 @@
 
 ## Authors
 This projects were carried by:
-- Sebastien Lauren
+- Sebastien Laurent
 - Duy Vu DINH
 
 ## Overview
