@@ -10,3 +10,10 @@ Welcome to the GitHub repository for the projects of the ELEN0060 course.
 
 ## Project 1
 The goal of this first project is to get accustomed to information and uncertainty measures.
+
+Grade: 20/20
+
+## Project 2
+
+
+Grade: 19.5/20
