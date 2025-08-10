@@ -1,7 +1,7 @@
 # ELEN0060 Information and coding theory
 
 ## Authors
-This projects were carried by:
+These projects were carried by:
 - Sebastien Laurent
 - Duy Vu DINH
 
